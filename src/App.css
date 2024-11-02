@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+header{
+  color: fuchsia;
+  font-weight: 1000;
+  padding: 2%;
+}
+
+main{
+  background-color: black;
+  color: white;
+  padding: 20%;
+}
